@@ -1,0 +1,15 @@
+[env]
+_.python.venv = { path = ".venv", create = true }
+_.file = ".env"
+
+[tools]
+python = "3.12"
+uv = "latest"
+
+[tasks.install]
+description = "Install dependencies"
+alias = "i"
+run = """
+uv pip install -r requirements.txt
+uv pip install -e .
+"""
