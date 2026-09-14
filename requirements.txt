@@ -1,9 +1,7 @@
 dbus-next
 glib
 gst
-mpris-server
 pylast
 py-sonic
-tasklib
 textual-dev
 textual-image
