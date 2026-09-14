@@ -20,7 +20,7 @@ It is written in python, using:
 
 ## Is this AI slop?
 
-Nope, this is 100% "organic" sowftware with no AI used.
+Nope, this is 100% "organic" software with no AI used.
 
 ## How to run?
 
